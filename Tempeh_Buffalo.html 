@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>French Toast Waffles</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+
+<body>
+    <div>
+
+        <h1>Tempeh Buffalo wings </h1>
+
+        <!--adding image for bufflo-->
+        <img src="images/Buffalo wings.jpg" alt="Buffalo wings" style="width:600px; height:300px;">
+
+    </div>
+
+    <div>
+        <!--DISH DESCRIPTION SECTION-->
+
+        <h4>Dish Description</h4>
+        <p>
+            Making French toast in your waffle iron combines the best of both worlds. You get all the custardy richness
+            of French toast plus waffle's signature crispy ridges. All the better to hold more maple syrup.
+        </p>
+
+        <p>
+            Prep:
+            10 mins
+            <br>
+            Cook:
+            30 mins
+            <br>
+            Additional:
+            5 mins
+            <br>
+            Total:
+            0 HOURS 35 MINS 
+            <br>
+            Servings:
+            4
+            <br>
+            Yield:
+            4 slices
+        </p>
+
+    </div>
+
+    <div>
+        <!--Ingredient Section-->
+
+        <h4>Ingredients</h4>
+<h4>FOR THE VEGAN RANCH</h4>
+        <ul>
+            <li>1/2 c. vegan mayonnaise</li>
+            <li>2 tbsp. chopped fresh dill</li>
+            <li>1 tbsp. unsweetened almond milk, plus more if needed</li>
+            <li> 1 tbsp. apple cider vinegar</li>
+            <li>1/4 tsp. garlic powder</li>
+            <li>1/4 tsp. onion powder</li>
+            <li>Large pinch sweet paprika </li>
+            <li> Kosher salt </li>
+            <li>Freshly ground black pepper</li>
+            <h4>FOR THE TEMPEH WINGS </h4>
+            <li>2 (8-ounce) blocks tempeh  </li>
+            <li>2 tbsp. safflower or vegetable oil, plus more for grill  </li>
+            <li>1/2 c. hot sauce (Frank's preferred)  </li>
+            <li>1/2 c. vegan butter </li>
+            <li>F1 tbsp. light agave syrup</li>
+
+
+    
+            
+        </ul>
+    </div>
+
+    <div>
+        <!--Direction section-->
+
+        <h4>Directions</h4>
+
+        <ol type="a">
+            <li><strong>Step 1</strong>
+                <p>
+                    Make vegan ranch: In a medium bowl, whisk together all ingredients until evenly combined. If mixture is too thick, thin to dippable dressing consistency with a few drops more almond milk or water. Season with salt and pepper. Refrigerate in an airtight container until ready to use.
+                     NOTE: Ranch dressing can be made up to a week ahead.
+                </p>
+            </li>
+
+
+            <li>
+                <strong>Step 2</strong>
+                <p>
+                    Make tempeh wings: Cut each block of tempeh crosswise into 3 pieces, then diagonally to create 6 triangular pieces per block. Fill bottom of a medium saucepan with about 2 inches of water and fit with a steamer basket. Place saucepan over medium-high heat and bring to a simmer. Once simmering, carefully arrange tempeh pieces in an even layer in steamer basket.
+                 Cover, reduce heat to medium, and steam 15 minutes.
+                </p>
+            </li>
+
+            <li>
+                <strong>Step 3</strong>
+                <p>Using tongs, transfer tempeh to a medium bowl and toss with oil.</p>
+            </li>
+
+            <li>
+                <strong>Step 4</strong>
+                <p>Meanwhile, in a small saucepan, combine hot sauce, vegan butter, and agave syrup and bring to a simmer. Cook, whisking occasionally, until mixture slightly reduced, about 6 minutes. 
+                    Transfer to a large heatproof bowl; keep warm.</p>
+            </li>
+
+            <li>
+                <strong>Step 5</strong>
+                <p>Preheat a grill or grill pan to medium-high and lightly oil grates. Add steamed tempeh and cook, turning a few times, until golden all over, about 6 minutes. Transfer tempeh directly to bowl with buffalo sauce and toss to coat. 
+                    Serve tempeh on a platter with celery and ranch for dipping</p>
+            </li>
+
+        </ol>
+
+    </div>
+
+
+    <div>
+        <!-- Bottom links -->
+        <a href="../index.html">Homepage</a>
+    </div>
+
+
+</body>
+
+
+</html>
