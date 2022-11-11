@@ -1,0 +1,147 @@
+body {
+    background-color: lightgreen;
+    /* background-image: url(./images/19383028-food-leavings-fish-apple-chicken-drink-on-beige-background.webp); */
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.8em;
+
+}
+
+#upper-section h1 {
+    text-align: center;
+    text-shadow: 10px;
+    color: ;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#upper-section img {
+    height: 800;
+    width: 1000;
+    border-radius: 10px;
+
+
+}
+
+.top-recipes {
+    background-color: bisque;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 3;
+    font-size: 20px;
+}
+
+/* Chicken.html Css*/
+
+.container{
+   max-width: 960px;
+    margin: auto;
+    text-align: justify;
+}
+
+
+
+#dish-image img {
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+
+
+}
+
+#meal-description {
+    border: solid 1px black;
+    padding: 5px 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background-color: lemonchiffon;
+    border-radius: 10px;
+}
+
+#ingredients {
+    border: solid 1px black;
+    padding: 5px 10px;
+    margin-top: 20px;
+    background-color: lemonchiffon;
+    border-radius: 10px;
+}
+#directions{
+    
+    border: solid 1px black;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: lemonchiffon;
+     width: 900px;
+     text-align: justify;
+     
+}
+#directions #step-1, #step-2, #step-3, #step-4, #step-5{
+    border: solid 1px black;
+    
+    border-radius: 10px;
+    box-sizing: border-box; 
+   
+   
+    padding: 5px 5px;
+    
+    padding-inline-start: 1px;
+    background-color: burlywood;
+    width: 800px;
+    padding-left: 25px;
+    
+}
+
+.bottom-links{
+    word-spacing: 15px;
+}
+
+/* ABOUT.html CSS*/
+
+.aboutcontainer{
+    max-width: 960px;
+    margin: auto; 
+    text-align: justify;
+    
+}
+   #aboutus h1{
+    text-align: center;
+    
+}
+
+
+
+#work-with-us h3{
+    text-align: center;
+}
+
+#work-with-us{
+    border: 1px solid black;
+    padding: 10px 40px;
+    background-color: bisque;
+}
+
+.sponsor h3{
+    text-align: center;
+}
+.sponsor img {
+
+height: 150px;
+width: 170px;
+
+image-orientation: 0turn;
+border-radius: 20px;
+margin-right: 50px;
+margin-left: 15px;
+
+}
+
+
+
+
+
